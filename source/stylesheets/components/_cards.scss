@@ -7,10 +7,11 @@
 .card-product {
   overflow: hidden;
   height: 120px;
-  background: white;
+  background: #4e4747;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   display: flex;
   align-items: center;
+  border-radius: 24px;
 }
 
 .card-product img {
@@ -28,7 +29,7 @@
 .card-product p {
   font-size: 12px;
   line-height: 1.4;
-  opacity: .7;
+  opacity: 0.7;
   margin-bottom: 0;
   margin-top: 8px;
 }
@@ -49,7 +50,7 @@
   transition: opacity 1s;
   &:hover {
     cursor: pointer;
-    color: $gray
+    color: $gray;
   }
 }
 
