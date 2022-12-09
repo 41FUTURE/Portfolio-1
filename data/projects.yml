@@ -9,6 +9,6 @@
   url: https://homestopiaa.herokuapp.com/
 
 - name: Rails Movie Watchlist
-  description: Decent description of the app
+  description: Movie Watchlist created using RubyOnRails
   image: projects/railswatchlist.png
   url: https://netbiz.herokuapp.com/lists
